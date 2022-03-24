@@ -4,7 +4,7 @@
   <em>
     Full Stack Developer at <a href="https://www.centris.ca/">Centris</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
     </br>
-    B. Eng. in Information Technology Engineering from <a href="https://www.etsmtl.ca/en/studies/Undergraduate-Programs/Bachelor-of-Information-Technology-Engineering">ETS</a><img src="https://media.giphy.com/media/5Xkfm66TmruVquYe6Q/giphy.gif" width="30">
+    B. Eng. in Information Technology from <a href="https://www.etsmtl.ca/en/studies/Undergraduate-Programs/Bachelor-of-Information-Technology-Engineering">ETS</a><img src="https://media.giphy.com/media/5Xkfm66TmruVquYe6Q/giphy.gif" width="30">
   </em>
 </p>
 
