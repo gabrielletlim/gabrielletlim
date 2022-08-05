@@ -2,18 +2,20 @@
 
 <p>
   <em>
-    Full Stack Developer at <a href="https://www.centris.ca/">Centris</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+    Software Developer at <a href="https://careers.google.com/locations/montreal/">Google</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
     </br>
     B. Eng. in Information Technology from <a href="https://www.etsmtl.ca/en/studies/Undergraduate-Programs/Bachelor-of-Information-Technology-Engineering">ETS</a><img src="https://media.giphy.com/media/5Xkfm66TmruVquYe6Q/giphy.gif" width="30">
   </em>
 </p>
 
+<!--
 <h2> 📈 My GitHub Stats </h2>
 
 <a href="https://github-readme-stats.vercel.app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielletlim&langs_count=10&layout=compact&theme=gotham" />
 </a>
 <br/>
+-->
 
 <h2> 🔍  Where to find me </h2>
 
